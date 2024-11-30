@@ -28,11 +28,6 @@ projects:
     projects:
       - tda-webhooks-tradingview
       - personal-website
-      - CMSC203_Lab1
-      - CMSC203_Lab2
-      - CMSC203_Lab3
-      - CMSC203_Lab4
-      - CMSC203_Lab6
       - vercel
       - hyperdrive
       - asmaa.dev-2
@@ -42,6 +37,7 @@ projects:
       - ts-mui-nextjs-starter
       - blkpvnthr
       - CMSC203
+      - CMSC203_Lab3
 
 
 social_media:
@@ -51,7 +47,7 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: https://www.linkedin.com/in/asmaa-a-17021713b/
+  linkedin: https://www.linkedin.com/in/blkpvnthr/
   # mastodon: your_username
   # medium: your_username
   stackoverflow: blkpvnthr
